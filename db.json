@@ -1,46 +1,59 @@
 {
-    "blogs": [
-        {
-            "id": "1",
-            "title": "Future of Fintech",
-            "category": [
-                "FINANCE",
-                "TECH"
-            ],
-            "description": "Exploring how AI and blockchain are reshaping financial services",
-            "date": "2026-01-11T09:12:45.120Z",
-            "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
-            "content": "The financial technology sector is undergoing a revolutionary transformation. Artificial intelligence and blockchain technology are at the forefront of this change, fundamentally altering how we think about banking, investments, and monetary transactions.\n\nAI-powered algorithms now handle everything from fraud detection to personalized investment recommendations. Machine learning models analyze vast amounts of financial data in real-time, identifying patterns and opportunities that human analysts might miss.\n\nBlockchain technology has introduced unprecedented levels of transparency and security to financial transactions. Decentralized finance (DeFi) platforms are challenging traditional banking models, offering users direct control over their assets without intermediaries.\n\nAs we look to the future, the convergence of these technologies promises even more dramatic changes. Smart contracts will automate complex financial agreements, while AI-driven risk assessment will make financial services more accessible to underserved populations.",
-            "likes": 142,
-            "dislikes": 8
-        },
-        {
-            "id": "2",
-            "title": "Sustainable Architecture",
-            "category": [
-                "DESIGN",
-                "ENVIRONMENT"
-            ],
-            "description": "How green building practices are transforming urban landscapes",
-            "date": "2026-01-10T14:30:00.000Z",
-            "coverImage": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
-            "content": "The architecture industry is experiencing a paradigm shift towards sustainability. Modern architects are integrating eco-friendly materials, energy-efficient systems, and biophilic design principles to create buildings that harmonize with the environment.\n\nGreen roofs and living walls have become standard features in contemporary construction, providing natural insulation and improving air quality. Solar panels and wind turbines are seamlessly integrated into building designs, turning structures into energy producers rather than just consumers.\n\nThe concept of net-zero buildings is gaining momentum, with structures designed to produce as much energy as they consume. Advanced building materials, including recycled composites and sustainably harvested timber, are replacing traditional concrete and steel.\n\nUrban planning is also evolving, with architects designing mixed-use developments that reduce the need for transportation. These sustainable communities prioritize walkability, public transit access, and shared green spaces.",
-            "likes": 89,
-            "dislikes": 3
-        },
-        {
-            "id": "3",
-            "title": "The Rise of Remote Work",
-            "category": [
-                "BUSINESS",
-                "LIFESTYLE"
-            ],
-            "description": "Understanding the permanent shift in how we approach work",
-            "date": "2026-01-09T08:00:00.000Z",
-            "coverImage": "https://images.pexels.com/photos/4050287/pexels-photo-4050287.jpeg",
-            "content": "Remote work has evolved from a temporary necessity to a permanent fixture of the modern workplace. Companies worldwide are embracing hybrid models, recognizing the benefits of flexibility for both employees and organizations.\n\nThe traditional office is being reimagined as a collaboration hub rather than a daily destination. Workers now have the freedom to choose their environment based on the task at hand, leading to increased productivity and job satisfaction.\n\nTechnology has been the great enabler of this transformation. Video conferencing platforms, project management tools, and cloud-based collaboration software have made distance irrelevant for most knowledge workers.\n\nHowever, remote work also presents challenges. Companies are developing new strategies for maintaining culture, fostering innovation, and supporting employee mental health in distributed teams. The future of work will require balancing the benefits of flexibility with the human need for connection and community.",
-            "likes": 256,
-            "dislikes": 12
-        }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial technology sector is undergoing a revolutionary transformation. Artificial intelligence and blockchain technology are at the forefront of this change, fundamentally altering how we think about banking, investments, and monetary transactions.\n\nAI-powered algorithms now handle everything from fraud detection to personalized investment recommendations. Machine learning models analyze vast amounts of financial data in real-time, identifying patterns and opportunities that human analysts might miss.\n\nBlockchain technology has introduced unprecedented levels of transparency and security to financial transactions. Decentralized finance (DeFi) platforms are challenging traditional banking models, offering users direct control over their assets without intermediaries.\n\nAs we look to the future, the convergence of these technologies promises even more dramatic changes. Smart contracts will automate complex financial agreements, while AI-driven risk assessment will make financial services more accessible to underserved populations.",
+      "likes": 142,
+      "dislikes": 8
+    },
+    {
+      "id": "2",
+      "title": "Sustainable Architecture",
+      "category": [
+        "DESIGN",
+        "ENVIRONMENT"
+      ],
+      "description": "How green building practices are transforming urban landscapes",
+      "date": "2026-01-10T14:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+      "content": "The architecture industry is experiencing a paradigm shift towards sustainability. Modern architects are integrating eco-friendly materials, energy-efficient systems, and biophilic design principles to create buildings that harmonize with the environment.\n\nGreen roofs and living walls have become standard features in contemporary construction, providing natural insulation and improving air quality. Solar panels and wind turbines are seamlessly integrated into building designs, turning structures into energy producers rather than just consumers.\n\nThe concept of net-zero buildings is gaining momentum, with structures designed to produce as much energy as they consume. Advanced building materials, including recycled composites and sustainably harvested timber, are replacing traditional concrete and steel.\n\nUrban planning is also evolving, with architects designing mixed-use developments that reduce the need for transportation. These sustainable communities prioritize walkability, public transit access, and shared green spaces.",
+      "likes": 89,
+      "dislikes": 3
+    },
+    {
+      "id": "3",
+      "title": "The Rise of Remote Work",
+      "category": [
+        "BUSINESS",
+        "LIFESTYLE"
+      ],
+      "description": "Understanding the permanent shift in how we approach work",
+      "date": "2026-01-09T08:00:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/4050287/pexels-photo-4050287.jpeg",
+      "content": "Remote work has evolved from a temporary necessity to a permanent fixture of the modern workplace. Companies worldwide are embracing hybrid models, recognizing the benefits of flexibility for both employees and organizations.\n\nThe traditional office is being reimagined as a collaboration hub rather than a daily destination. Workers now have the freedom to choose their environment based on the task at hand, leading to increased productivity and job satisfaction.\n\nTechnology has been the great enabler of this transformation. Video conferencing platforms, project management tools, and cloud-based collaboration software have made distance irrelevant for most knowledge workers.\n\nHowever, remote work also presents challenges. Companies are developing new strategies for maintaining culture, fostering innovation, and supporting employee mental health in distributed teams. The future of work will require balancing the benefits of flexibility with the human need for connection and community.",
+      "likes": 256,
+      "dislikes": 12
+    },
+    {
+      "id": "1768679129250",
+      "title": "The Quiet Power of Morning Walks",
+      "category": [
+        "LIFESTYLE",
+        "HEALTH",
+        "MINDFULNESS"
+      ],
+      "description": "A gentle exploration of how a simple morning walk can improve your mood, clarity, and overall well-being. This blog highlights small habits that create meaningful change in everyday life.",
+      "coverImage": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg",
+      "content": "Many of us begin our mornings in a rush — scrolling on our phones, checking emails, or preparing for a busy day ahead. But there is something quietly powerful about starting your day with a simple morning walk.\n\nStepping outside early in the morning allows you to experience the world before it gets loud and chaotic. The air is fresher, the streets are calmer, and your mind is clearer. Even a 10–15 minute walk can make a noticeable difference in how you feel throughout the day.\n\nPhysically, walking boosts circulation, wakes up your muscles, and gives your body a gentle form of exercise without feeling overwhelming. Mentally, it provides space to think, breathe, and set intentions for the day ahead. Many people find that their best ideas come to them while walking.\n\nMorning walks can also be a moment of mindfulness. Instead of worrying about the past or future, you can focus on the present — the sound of birds, the feeling of your feet on the ground, or the warmth of the sun.\n\nYou don’t need a special place or expensive equipment. Just step outside, move at your own pace, and enjoy the simplicity of the moment.\n\nIn a fast-paced world, a morning walk is a small but meaningful way to reconnect with yourself and start your day with calm and clarity.",
+      "date": "2026-01-17T19:45:29.250Z"
+    }
+  ]
 }
