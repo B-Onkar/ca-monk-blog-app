@@ -2,7 +2,7 @@
 
 A modern, responsive blog application built with React, TypeScript, TanStack Query, and Tailwind CSS. Features a beautiful UI with shadcn/ui-style components.
 
-![App Screenshot](./screenshots/final_app_state_1768677662798.png)
+<img width="1920" height="1080" alt="Screenshot (1066)" src="https://github.com/user-attachments/assets/1a2a2d1b-2ac2-4435-adb4-c5c548b5054f" />
 
 ---
 
@@ -127,10 +127,10 @@ camonk-blog/
 ## 📸 Screenshots
 
 ### Main View with Blog Details
-![Main Application](./screenshots/final_app_state_1768677662798.png)
+<img width="1920" height="1080" alt="Screenshot (1066)" src="https://github.com/user-attachments/assets/75e97538-cfa7-4ebd-86bc-d9154195f9af" />
 
 ### Create Blog Modal
-![Create Blog](./screenshots/create_form.png)
+<img width="1920" height="1080" alt="Screenshot (1068)" src="https://github.com/user-attachments/assets/d17a0645-be1f-4833-b5af-45a488993e99" />
 
 ---
 
@@ -179,17 +179,12 @@ camonk-blog/
 - [Pexels](https://www.pexels.com/) - Free stock images
 - [JSON Server](https://github.com/typicode/json-server) - Mock REST API
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
 ## 👨‍💻 Author
 
-Built with ❤️ for the CA Monk Frontend Interview Assignment
+Built with ❤️ by Onkar Bandichhode for the CA Monk Frontend Interview Assignment
 
 ---
 
